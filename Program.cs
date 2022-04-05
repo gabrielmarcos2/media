@@ -11,6 +11,6 @@ n2 = Convert.ToDouble(Console.ReadLine()!);
 Console.Write("Digite o terceiro numero..: ");
 n3 = Convert.ToDouble(Console.ReadLine()!);
 
-media = (n1 + n2 + n3) / 4; 
+media = (n1 + n2 + n3) / 3; 
 
 Console.WriteLine($"Média: {media:N1}");
